@@ -1,6 +1,6 @@
-# vuejs-fontawesome-get-started
+# vuejs-fontawesome-try-show-brands
 
-> Vue.js Fontawesome Getting Started
+> Vue.js Fontawesome Attempt to show Brand Icons
 
 ## Build Setup
 

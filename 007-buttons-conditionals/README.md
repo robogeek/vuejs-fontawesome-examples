@@ -1,6 +1,6 @@
-# vuejs-fontawesome-get-started
+# vuejs-fontawesome-icon-buttons
 
-> Vue.js Fontawesome Getting Started
+> Vue.js Fontawesome Icons in Buttons, and conditionally showing icons
 
 ## Build Setup
 

@@ -11,8 +11,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.2.0",
-    "i": "^0.3.6",
-    "npm": "^6.3.0",
     "vue": "^2.5.11"
   },
   "browserslist": [

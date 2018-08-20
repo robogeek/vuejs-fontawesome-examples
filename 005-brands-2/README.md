@@ -1,4 +1,4 @@
-# vuejs-fontawesome-get-started
+# vuejs-fontawesome-show-brand-icons
 
 > Vue.js Fontawesome Getting Started
 

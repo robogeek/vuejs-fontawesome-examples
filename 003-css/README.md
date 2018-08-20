@@ -1,6 +1,6 @@
-# vuejs-fontawesome-get-started
+# vuejs-fontawesome-css-from-cdn
 
-> Vue.js Fontawesome Getting Started
+> Vue.js Fontawesome Using CSS From CDN
 
 ## Build Setup
 

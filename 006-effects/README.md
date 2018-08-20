@@ -1,6 +1,6 @@
-# vuejs-fontawesome-get-started
+# vuejs-fontawesome-show-special-effects
 
-> Vue.js Fontawesome Getting Started
+> Vue.js Fontawesome Showing Special Effects
 
 ## Build Setup
 

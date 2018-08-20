@@ -20,11 +20,11 @@ $ npm run build   # to build a deployable application bundle
 
 The directories are:
 
-* `001-start`: a simple starting application 
-* `002-brands`: shows display of icons from the "brands" collection
-* `003-css`: shows using the Font Awesome CSS file
-* `004-fontawesome-free`: Shows using the fontawesome-free npm package
-* `005-brands-2`: in 002-brands the demonstration is incomplete, and in 005-brands-2 we fixed the problem 
-* `006-effects`: special effects with Font Awesome icons
-* `007-buttons-conditionals`: Using Font Awesome icons in Vue.js buttons, and using Vue.js conditionals 
+* `001-start`: a simple starting application -- Live: https://codesandbox.io/s/rwzyq379jn
+* `002-brands`: shows display of icons from the "brands" collection -- Live: https://codesandbox.io/s/v8q75q6w57
+* `003-css`: shows using the Font Awesome CSS file -- Live: https://codesandbox.io/s/nk6j724080
+* `004-fontawesome-free`: Shows using the fontawesome-free npm package -- Live: https://codesandbox.io/s/mozr017zjp (does not work as expected)
+* `005-brands-2`: in 002-brands the demonstration is incomplete, and in 005-brands-2 we fixed the problem -- Live: https://codesandbox.io/s/jn40584rv
+* `006-effects`: special effects with Font Awesome icons -- Live: https://codesandbox.io/s/2wk112xk50
+* `007-buttons-conditionals`: Using Font Awesome icons in Vue.js buttons, and using Vue.js conditionals -- Live: https://codesandbox.io/s/7w8jpjlvlx
 

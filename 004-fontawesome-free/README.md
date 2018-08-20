@@ -1,6 +1,6 @@
-# vuejs-fontawesome-get-started
+# vuejs-fontawesome-using-fontawesome-free
 
-> Vue.js Fontawesome Getting Started
+> Vue.js Fontawesome Using fontawesome-free npm package
 
 ## Build Setup
 
